@@ -1,0 +1,53 @@
+body{
+    background: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+    text-align: center;
+}
+header{
+    color: white;
+    text-align: center;
+    
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px rgba(0 ,0 ,0 ,0.600);
+}
+input{
+    width: 70%;
+    height: 25px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 3px;
+    border: 1px solid;
+    font-size: 20px;
+}
+#bt{
+    background: rgb(85, 153, 241); 
+    border: none;
+    border-radius: 3px;
+    color: white;
+}
+#bt:hover{
+    background: rgb(16, 115, 245); 
+}
+select{
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 3px;
+    border: 1px solid;
+    font-size: 15px;
+    overflow-y:hidden;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+img{
+    padding: 10px;
+}
