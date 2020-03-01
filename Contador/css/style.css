@@ -31,6 +31,9 @@ input{
     border-radius: 3px;
     color: white;
 }
+#bt:hover{
+    background: rgb(16, 115, 245); 
+}
 footer{
     color: white;
     text-align: center;
