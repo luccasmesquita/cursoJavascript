@@ -16,6 +16,24 @@ section{
     margin: 0 auto;
     box-shadow: 5px 5px 10px rgba(0 ,0 ,0 ,0.600);
 }
+#txtano{
+    width: 90%;
+    height: 25px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 3px;
+    border: 1px solid;
+    font-size: 20px;
+}
+#bt{
+    width: 60%;
+    height: 25px;
+    background: rgb(85, 153, 241); 
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-size: 20px;
+}
 footer{
     color: white;
     text-align: center;
